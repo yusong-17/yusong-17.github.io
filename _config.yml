@@ -88,7 +88,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?user=lDml1SkAAAAJ&hl=zh-CN"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/Yu-Song-27?ev=hdr_xprf"
+  researchgate     : "https://www.researchgate.net/profile/Yu-Song-27?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :

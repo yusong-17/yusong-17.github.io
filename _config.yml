@@ -83,9 +83,9 @@ author:
   name             : "Yu Song"
   avatar           : "profile.png"
   bio              : "PostDoc @ Caltech"
-  location         : "Pasadena, CA(https://www.eas.caltech.edu)"
+  location         : "Pasadena, CA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?user=lDml1SkAAAAJ&hl=zh-CN"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/Yu-Song-27?ev=hdr_xprf"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://orcid.org/0000-0002-4185-2256"
   orcid            : "https://orcid.org/0000-0002-4185-2256"
   pinterest        :
   soundcloud       :
